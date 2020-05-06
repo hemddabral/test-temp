@@ -1,7 +1,7 @@
 ============
 developer-2
 ===========
-I have completed my feature now I will check-in.
+I have completed my feature porperly, now I will check-in.
 
 -Developer 2
  
